@@ -17,3 +17,5 @@ How to use:
 Upon running the program, the user's camera will turn on so that it can be used to detect handsigns. Upon performing the signs for the words, the word being signed will be read and converted to text, and speech.
 
 Words: There are currently 18 words in the database
+
+note to self: use the tf environment
